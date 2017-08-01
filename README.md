@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to The Curious Teach's Blog
 
-You can use the [editor on GitHub](https://github.com/thecuriousteach/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This blog walks the final line between my full-time life of teaching scince and my full-time desire to learn coding.  Watch this page for my musings, failures, successes, and learnings on both teaching, coding, and teaching coding!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Where to Begin?
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**I wanted to learn something new...**
+I have come so far into teaching, and have learn and grown so much, but I wanted to learn more.  So I spent this summer break learning how to code!
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thecuriousteach/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
